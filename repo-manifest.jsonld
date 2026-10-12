@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphql-core/commit/d913a6106ffe2e459b91dce97f225d15723aa81d",
       "git:hexsha": "d913a6106ffe2e459b91dce97f225d15723aa81d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T01:54:44.551685+00:00"
     },
     {
       "@id": "https://repolex.ai/r/graphql-python/graphql-core/commit/d3bdab438db6f5d3d38944b2aead8397e3d99961",
